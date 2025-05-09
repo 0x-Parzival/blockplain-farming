@@ -100,4 +100,4 @@ Pathway is the backbone of this system:
 
 ## 🧾 License
 
-MIT License © 2025 Your Name / Team
+MIT License © 2025 Keshav Baliyan (0x-Parzival)/ Aech
