@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/yourusername/blockplain/block"
+	"https://github.com/0x-Parzival/blockplain-farming/blockplain/block"
 )
 
 // Storage handles blockchain persistence
