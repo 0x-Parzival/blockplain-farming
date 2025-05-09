@@ -11,10 +11,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/yourusername/blockplain/block"
-	"github.com/yourusername/blockplain/config"
-	"github.com/yourusername/blockplain/crypto"
-	"github.com/yourusername/blockplain/transaction"
+	"https://github.com/0x-Parzival/blockplain-farming/blockplain/block"
+	"https://github.com/0x-Parzival/blockplain-farming/blockplain/config"
+	"https://github.com/0x-Parzival/blockplain-farming/blockplain/crypto"
+	"https://github.com/0x-Parzival/blockplain-farming/blockplain/transaction"
 )
 
 // CLI represents the command line interface
