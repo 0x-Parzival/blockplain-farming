@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/yourusername/blockplain/blockchain"
+	"https://github.com/0x-Parzival/blockplain-farming/blockplain/blockchain"
 )
 
 // Server represents the API server
