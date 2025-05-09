@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/yourusername/blockplain/crypto"
+	"https://github.com/0x-Parzival/blockplain-farming/blockplain/crypto"
 )
 
 // Transaction represents a basic transaction
