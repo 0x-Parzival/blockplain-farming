@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yourusername/blockplain/block"
-	"github.com/yourusername/blockplain/blockchain"
+	"https://github.com/0x-Parzival/blockplain-farming/blockplain/block"
+	"https://github.com/0x-Parzival/blockplain-farming/blockplain/blockchain"
 )
 
 // Peer represents a network peer
