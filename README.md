@@ -47,6 +47,9 @@ This unlocks applications like:
     │ Vector DB │
     └───────────┘
 
+
+    
+
 ## 🧠 Why It’s Innovative
 
 - **Pathway for Real-Time Sync & Indexing** (📈)
