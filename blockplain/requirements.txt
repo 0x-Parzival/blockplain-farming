@@ -1,0 +1,4 @@
+numpy>=1.19.0
+faiss-cpu>=1.7.0  # Use faiss-gpu if GPU support is needed
+pandas>=1.0.0
+matplotlib>=3.0.0
