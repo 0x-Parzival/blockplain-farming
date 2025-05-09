@@ -9,11 +9,11 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/yourusername/blockplain/api"
-	"github.com/yourusername/blockplain/blockchain"
-	"github.com/yourusername/blockplain/config"
-	"github.com/yourusername/blockplain/network"
-	"github.com/yourusername/blockplain/storage"
+	"https://github.com/0x-Parzival/blockplain-farming/blockplain/api"
+	"https://github.com/0x-Parzival/blockplain-farmingblockplain/blockchain"
+	"https://github.com/0x-Parzival/blockplain-farming/blockplain/config"
+	"https://github.com/0x-Parzival/blockplain-farming/blockplain/network"
+	"https://github.com/0x-Parzival/blockplain-farming/blockplain/storage"
 )
 
 func main() {
