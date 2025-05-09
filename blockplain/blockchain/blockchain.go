@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yourusername/blockplain/block"
+	"https://github.com/0x-Parzival/blockplain-farming/blockplain/block"
 )
 
 // Blockchain represents a chain of blocks
