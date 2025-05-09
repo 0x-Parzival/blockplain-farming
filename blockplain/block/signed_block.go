@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/yourusername/blockplain/crypto"
+	"https://github.com/0x-Parzival/blockplain-farming/blockplain/crypto"
 )
 
 // SignBlock signs a block with the provided key pair
