@@ -48,6 +48,8 @@ This unlocks applications like:
     └───────────┘
 
 
+---
+
 ## 🧠 Why It’s Innovative
 
 - **Pathway for Real-Time Sync & Indexing** (📈)
